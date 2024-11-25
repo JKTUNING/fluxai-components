@@ -12,5 +12,5 @@ module.exports = {
         foreground: "var(--foreground)",
       },
     },
-  }
+  },
 };
