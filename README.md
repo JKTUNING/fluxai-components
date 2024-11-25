@@ -5,7 +5,7 @@
 This is a monorepo for Flux AI Components. It includes components to drop right into your NextJS or React project for both FluxGPT (chat) and FluxONE (image).
 
 ## Prerequisites
-You will need a FluxAI api key and url to use these components, which can be obtained by creating an account on [FluxAI](https://ai-runonflux.com).
+You will need a FluxAI api key and url to use these components, which can be obtained by creating an account on [FluxAI](https://ai.runonflux.com).
 
 Please see the .example.env file for the environment variables you will need to set before starting the project.
 
